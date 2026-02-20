@@ -104,19 +104,19 @@ Data science tidak dilakukan secara acak. Ada tahapan sistematis yang biasanya d
 
 Salah satu alur umum adalah:
 
-**1. Business Understanding**
-Memahami masalah bisnis yang ingin diselesaikan.
+**1. Business Understanding**  
+Memahami masalah bisnis yang ingin diselesaikan.  
 Contoh: “Bagaimana cara mengurangi customer churn sebesar 10%?”
 
-**2. Analytic Approach**
-Menentukan pendekatan analitik yang tepat.
+**2. Analytic Approach**  
+Menentukan pendekatan analitik yang tepat.  
 Apakah ini problem klasifikasi? regresi? forecasting?
 
-**3. Data Requirements**
-Menentukan data apa saja yang dibutuhkan.
+**3. Data Requirements**  
+Menentukan data apa saja yang dibutuhkan.  
 Contoh: data transaksi, data demografi pelanggan, histori penggunaan.
 
-**4. Data Collection**
+**4. Data Collection**  
 Mengumpulkan data dari berbagai sumber:
 - Database
 - API
@@ -131,19 +131,19 @@ Meliputi:
 - Feature engineering
 - Encoding
 
-**6. Exploratory Data Analysis (EDA)**
+**6. Exploratory Data Analysis (EDA)**  
 Menganalisis pola dan karakteristik data menggunakan statistik dan visualisasi.
 
 **7. Modelling**
 Membangun model machine learning sesuai kebutuhan.
 
-**8. Evaluation**
+**8. Evaluation**  
 Mengukur performa model menggunakan metrik seperti:
 - Accuracy
 - Precision & Recall
 - RMSE, dll
 
-**9. Deployment (Opsional)**
+**9. Deployment (Opsional)**  
 Mengimplementasikan model ke sistem produksi agar bisa digunakan secara real-time.
 
 
