@@ -149,3 +149,8 @@ Mengukur performa model menggunakan metrik seperti:
 
 **9. Deployment (Opsional)**
 Mengimplementasikan model ke sistem produksi agar bisa digunakan secara real-time.
+
+
+
+
+![Data Science Flow](images/ds-methodology.png)
