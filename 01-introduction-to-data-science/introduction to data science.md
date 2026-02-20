@@ -11,13 +11,9 @@ Data mentah ➝ Diolah ➝ Dianalisis ➝ Dapat insight ➝ Dibuat keputusan
 
 Data science biasanya melibatkan:
 - Pengumpulan data
-
 - Pembersihan data
-
 - Analisis eksploratif
-
 - Pembuatan model (machine learning)
-
 - Interpretasi hasil
 
 ## Contoh Hasil Kerja Data Science
