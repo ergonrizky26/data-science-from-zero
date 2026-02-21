@@ -44,7 +44,7 @@ Contoh:
 - Menjawab: Apa yang sebaiknya dilakukan?
 - Contoh: Rekomendasi strategi diskon untuk meningkatkan penjualan
 
-**B. Modelling (Machine Learning Result)**
+**B. Modelling (Machine Learning Result)**  
 Beberapa contoh model dasar dalam data science:
 
 **1. Classification**
@@ -73,7 +73,7 @@ Seorang data scientist membutuhkan kombinasi beberapa skill berikut:
 - Regression
 - Evaluasi model
 
-**2. Programming**
+**2. Programming**  
 Bahasa yang umum digunakan:
 - Python
 - SQL
@@ -123,7 +123,7 @@ Mengumpulkan data dari berbagai sumber:
 - File CSV/Excel
 - Web scraping
 
-**5. Data Preparation**
+**5. Data Preparation**  
 Tahap yang paling memakan waktu.
 Meliputi:
 - Cleaning data
@@ -134,7 +134,7 @@ Meliputi:
 **6. Exploratory Data Analysis (EDA)**  
 Menganalisis pola dan karakteristik data menggunakan statistik dan visualisasi.
 
-**7. Modelling**
+**7. Modelling**  
 Membangun model machine learning sesuai kebutuhan.
 
 **8. Evaluation**  
